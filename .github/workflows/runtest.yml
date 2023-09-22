@@ -1,9 +1,4 @@
 name: Run JUnit Tests (Gradle)
-permissions:
-  checks: write
-  actions: read
-  contents: read
-
 on: [push]
 jobs:
   build:
